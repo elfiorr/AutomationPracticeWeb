@@ -1,0 +1,17 @@
+C:\Users\Patryk\Desktop\Test\AutomationPracticeWeb\ClassesAndMethodsForTests\bin\Debug\ClassesAndMethodsForTests.exe.config
+C:\Users\Patryk\Desktop\Test\AutomationPracticeWeb\ClassesAndMethodsForTests\bin\Debug\ClassesAndMethodsForTests.exe
+C:\Users\Patryk\Desktop\Test\AutomationPracticeWeb\ClassesAndMethodsForTests\bin\Debug\ClassesAndMethodsForTests.pdb
+C:\Users\Patryk\Desktop\Test\AutomationPracticeWeb\ClassesAndMethodsForTests\bin\Debug\nunit.framework.dll
+C:\Users\Patryk\Desktop\Test\AutomationPracticeWeb\ClassesAndMethodsForTests\bin\Debug\WebDriver.dll
+C:\Users\Patryk\Desktop\Test\AutomationPracticeWeb\ClassesAndMethodsForTests\bin\Debug\WebDriver.Support.dll
+C:\Users\Patryk\Desktop\Test\AutomationPracticeWeb\ClassesAndMethodsForTests\bin\Debug\nunit.framework.pdb
+C:\Users\Patryk\Desktop\Test\AutomationPracticeWeb\ClassesAndMethodsForTests\bin\Debug\nunit.framework.xml
+C:\Users\Patryk\Desktop\Test\AutomationPracticeWeb\ClassesAndMethodsForTests\bin\Debug\WebDriver.xml
+C:\Users\Patryk\Desktop\Test\AutomationPracticeWeb\ClassesAndMethodsForTests\obj\Debug\ClassesAndMethodsForTests.csproj.CoreCompileInputs.cache
+C:\Users\Patryk\Desktop\Test\AutomationPracticeWeb\ClassesAndMethodsForTests\obj\Debug\ClassesAndMethodsForTests.csproj.CopyComplete
+C:\Users\Patryk\Desktop\Test\AutomationPracticeWeb\ClassesAndMethodsForTests\obj\Debug\ClassesAndMethodsForTests.exe
+C:\Users\Patryk\Desktop\Test\AutomationPracticeWeb\ClassesAndMethodsForTests\obj\Debug\ClassesAndMethodsForTests.pdb
+C:\Users\Patryk\Desktop\Test\AutomationPracticeWeb\ClassesAndMethodsForTests\bin\Debug\Framework.exe
+C:\Users\Patryk\Desktop\Test\AutomationPracticeWeb\ClassesAndMethodsForTests\bin\Debug\Framework.pdb
+C:\Users\Patryk\Desktop\Test\AutomationPracticeWeb\ClassesAndMethodsForTests\bin\Debug\Framework.exe.config
+C:\Users\Patryk\Desktop\Test\AutomationPracticeWeb\ClassesAndMethodsForTests\obj\Debug\ClassesAndMethodsForTests.csprojAssemblyReference.cache
