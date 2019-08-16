@@ -1,0 +1,15 @@
+C:\Users\Patryk\Desktop\Test\AutomationPracticeWeb\Framework\bin\Debug\Framework.exe.config
+C:\Users\Patryk\Desktop\Test\AutomationPracticeWeb\Framework\bin\Debug\Framework.exe
+C:\Users\Patryk\Desktop\Test\AutomationPracticeWeb\Framework\bin\Debug\Framework.pdb
+C:\Users\Patryk\Desktop\Test\AutomationPracticeWeb\Framework\bin\Debug\Castle.Core.dll
+C:\Users\Patryk\Desktop\Test\AutomationPracticeWeb\Framework\bin\Debug\nunit.framework.dll
+C:\Users\Patryk\Desktop\Test\AutomationPracticeWeb\Framework\bin\Debug\WebDriver.dll
+C:\Users\Patryk\Desktop\Test\AutomationPracticeWeb\Framework\bin\Debug\WebDriver.Support.dll
+C:\Users\Patryk\Desktop\Test\AutomationPracticeWeb\Framework\bin\Debug\Castle.Core.xml
+C:\Users\Patryk\Desktop\Test\AutomationPracticeWeb\Framework\bin\Debug\nunit.framework.pdb
+C:\Users\Patryk\Desktop\Test\AutomationPracticeWeb\Framework\bin\Debug\nunit.framework.xml
+C:\Users\Patryk\Desktop\Test\AutomationPracticeWeb\Framework\bin\Debug\WebDriver.xml
+C:\Users\Patryk\Desktop\Test\AutomationPracticeWeb\Framework\obj\Debug\Framework.csproj.CoreCompileInputs.cache
+C:\Users\Patryk\Desktop\Test\AutomationPracticeWeb\Framework\obj\Debug\Framework.csproj.CopyComplete
+C:\Users\Patryk\Desktop\Test\AutomationPracticeWeb\Framework\obj\Debug\Framework.exe
+C:\Users\Patryk\Desktop\Test\AutomationPracticeWeb\Framework\obj\Debug\Framework.pdb
